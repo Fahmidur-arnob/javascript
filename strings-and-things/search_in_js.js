@@ -27,3 +27,5 @@ boshonto kale tomay bolte parini. shad";
 // else {
 //     console.log("NO");
 // }
+
+console.log(Math.floor(12.96))
